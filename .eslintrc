@@ -12,6 +12,7 @@
     "ReactDOM": true
   },
   "rules": {
+    
     # "valid-jsdoc": ["error", {
     #   "requireReturn": true,
     #   "requireReturnType": true,
