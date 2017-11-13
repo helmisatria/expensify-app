@@ -9,7 +9,8 @@
   },
   "globals": {
     "React": true,
-    "ReactDOM": true
+    "ReactDOM": true,
+    "expect": true
   },
   "rules": {
     // "valid-jsdoc": ["error", {
